@@ -21,4 +21,3 @@ Interfaz que unifica y homologa los datos maestros con el **ERP SIESA**, facilit
 ---
 
 © **Combustibles Unigas – Dirección de Tecnología | 2025**
-![Logo](assets/img/API_NSX_2.png)
