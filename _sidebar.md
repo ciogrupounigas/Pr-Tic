@@ -7,7 +7,7 @@
 <details open>
   <summary><strong>Procesos TIC</strong></summary>
 
-  - [Centros de costos](Consulta/xxxx.md)
+  - [Centros de costos](process/xxxx.md)
  
 </details>
 
