@@ -7,7 +7,7 @@
 <details open>
   <summary><strong>Procesos TIC</strong></summary>
 
-  - [Centros de costos](process/xxxx.md)
+  - [Backup](process/pr-tic-ct-ef-001.md)
  
 </details>
 
@@ -18,7 +18,7 @@
 <details>
   <summary><strong>Ciencia de Datos</strong></summary>
 
-  - [Factura Venta](Conectores/xxx.md)
+  - [Estados Financieros](PowerBI/pr-tic-ct-ef-001.md)
 
 </details>
 
