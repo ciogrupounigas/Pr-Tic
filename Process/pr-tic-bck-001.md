@@ -1,1 +1,1 @@
-![Logo](assets/img/API_NSX_2.png)
+![Logo](https://raw.githubusercontent.com/ciogrupounigas/Pr-Tic/refs/heads/main/assets/img/API_NSX_2.png)
