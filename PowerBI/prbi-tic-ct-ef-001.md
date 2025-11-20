@@ -235,7 +235,8 @@ La organización garantiza que:
 - Fin del proceso
 
 ### **Vista Grafica del DIAGRAMA BMPM**
-![Logo](assets/img/API_NSX_2.png)
+---
+![EF](assets/img/API_NSX_2.png)
 ---
 
 # **12. CONTROL DE VERSIONES**
