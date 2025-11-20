@@ -158,6 +158,10 @@ La organización garantiza que:
 | Distribución del informe | C | I | I | **R** | I |
 | Aprobación del proceso | I | A | I | I | **A** |
 
+- **R**: Responsable 
+- **A**: Autoridad / Aprueba 
+- **C**: Consulta 
+- **I**: Informa 
 ---
 
 # **8. ROLES Y RESPONSABILIDADES**
