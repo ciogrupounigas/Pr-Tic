@@ -236,7 +236,7 @@ La organización garantiza que:
 
 ### **Vista Grafica del DIAGRAMA BMPM**
 ---
-![EF](assets/img/API_NSX_2.png)
+![EF](/assets/img/API_NSX_2.png)
 ---
 
 # **12. CONTROL DE VERSIONES**
