@@ -2,9 +2,9 @@
 <!--   MANUAL ISO 9001 – FORMATO OFICIAL (VERSIÓN MARKDOWN)   -->
 <!-- ========================================================= -->
 
-# ![ISO]( )  
+---
 # **MANUAL DEL PROCESO – GENERACIÓN, VALIDACIÓN Y PUBLICACIÓN DE INFORMACIÓN FINANCIERA EN POWER BI**  
-**Código:** TI-CB-001  
+**Código:** PRBI-TIC-CT-EF-001  
 **Versión:** 1.0  
 **Norma:** ISO 9001:2015  
 **Estado:** Vigente  
@@ -12,14 +12,14 @@
 
 ---
 
-## **ENCABEZADO DEL DOCUMENTO (ISO 9001)**  
+## **ENCABEZADO**  
 | **Nombre del Documento** | Manual del Proceso de Generación, Validación y Publicación de Información Financiera en Power BI |
 |--------------------------|---------------------------------------------------------------------------------------------------|
-| **Código** | TI-CB-001 |
+| **Código** | PRBI-TIC-CT-EF-001 |
 | **Versión** | 1.0 |
 | **Fecha de Emisión** | 2025-11-15 |
 | **Propietario del Proceso** | CIO – Área de Tecnología |
-| **Áreas Involucradas** | Tecnología – Contabilidad – Revisoría Fiscal |
+| **Áreas Involucradas** | Tecnología – Contabilidad |
 | **Norma Aplicable** | ISO 9001:2015 |
 | **Clasificación** | Procedimiento Corporativo |
 | **Difusión** | Interno Controlado |
@@ -168,7 +168,8 @@ La organización garantiza que:
 
 ### **Tecnología**
 - Administra ETL, modelos y Power BI Service.  
-- Garantiza calidad, seguridad y trazabilidad.  
+- Garantiza calidad, seguridad y trazabilidad.
+- Soporte sobre la herramienta Power BI.  
 
 ### **Revisoría Fiscal**
 - Verifica consistencia y trazabilidad.  
@@ -228,6 +229,8 @@ La organización garantiza que:
 ### **Lane: Dirección**
 - Consulta del informe publicado  
 - Fin del proceso
+
+### **Vista Grafica del DIAGRAMA BMPM**
 ![Logo](assets/img/API_NSX_2.png)
 ---
 
