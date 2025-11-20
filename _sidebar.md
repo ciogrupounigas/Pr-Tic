@@ -16,7 +16,7 @@
 ![POST](https://img.shields.io/badge/PowerBI-orange.svg) 
 
 <details>
-  <summary><strong>Ciencia de Datos</strong></summary>
+  <summary><strong>Análisis de Datos</strong></summary>
 
   - [Estados Financieros](PowerBI/prbi-tic-ct-ef-001.md)
 
