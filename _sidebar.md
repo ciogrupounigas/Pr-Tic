@@ -18,7 +18,7 @@
 <details>
   <summary><strong>Ciencia de Datos</strong></summary>
 
-  - [Estados Financieros](PowerBI/pr-tic-ct-ef-001.md)
+  - [Estados Financieros](PowerBI/prbi-tic-ct-ef-001.md)
 
 </details>
 
