@@ -241,7 +241,6 @@ La organización garantiza que:
 
 ---
 
-# **PIE DE PÁGINA (ISO 9001)**
 > **Documento controlado.**  
 > Reproducción parcial o total prohibida sin autorización del CIO.  
 > La versión vigente se encuentra en el repositorio corporativo de documentación.
