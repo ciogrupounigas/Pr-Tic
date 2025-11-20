@@ -236,7 +236,7 @@ La organización garantiza que:
 
 ### **Vista Grafica del DIAGRAMA BMPM**
 ---
-![EF](https://raw.githubusercontent.com/ciogrupounigas/Pr-Tic/refs/heads/main/assets/img/API_NSX_2.png)
+![EF](https://raw.githubusercontent.com/ciogrupounigas/Pr-Tic/refs/heads/main/assets/img/prbi-tic-ct-ef.png)
 ---
 
 # **12. CONTROL DE VERSIONES**
