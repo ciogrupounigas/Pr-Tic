@@ -7,7 +7,7 @@
 <details open>
   <summary><strong>Procesos TIC</strong></summary>
 
-  - [Backup](process/pr-tic-ct-ef-001.md)
+  - [Backup](process/pr-tic-bck-001.md)
  
 </details>
 
