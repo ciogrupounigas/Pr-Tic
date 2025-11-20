@@ -228,7 +228,7 @@ La organización garantiza que:
 ### **Lane: Dirección**
 - Consulta del informe publicado  
 - Fin del proceso
-
+![Logo](assets/img/API_NSX_2.png)
 ---
 
 # **12. CONTROL DE VERSIONES**
@@ -242,8 +242,4 @@ La organización garantiza que:
 > **Documento controlado.**  
 > Reproducción parcial o total prohibida sin autorización del CIO.  
 > La versión vigente se encuentra en el repositorio corporativo de documentación.
-
-```markdown
-
-
-![Logo](assets/img/API_NSX_2.png)
+---
